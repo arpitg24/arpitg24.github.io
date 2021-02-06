@@ -1,0 +1,120 @@
+/*
+* @Author: saurabh
+* @Date:   2018-10-28 04:27:49
+* @Last Modified by:   Saurabh Agarwal
+* @Last Modified time: 2018-11-25 11:05:29
+*/
+
+body {
+	font-family:'Open Sans', Arial, sans-serif;
+	font-size:16px;
+	font-weight:300;
+	line-height:1.6em;
+	color:#656565;
+}
+
+nav.design_navbar{
+	background-color: #3498DB;
+}
+
+
+li.logo_active{
+	color: #3498DB;
+}
+
+#logo_text{
+	color: #2E86C1;
+}
+
+.krssg_logo{
+	height: 60px;
+	width: 60px;
+}
+
+/*a.active{
+	color: white;
+}
+
+a:hover{
+	color: white
+}
+*/
+.change_strike_colour{
+	border-color: #3498DB;
+}
+
+
+.quick_links{
+	color: #656565
+}
+
+.quick_links:hover{
+	color: #656565
+}
+
+.image_container{
+	width: 1140px;
+	height: 400px;
+}
+
+.slider_image{
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+}
+
+.visited_country{
+	width: 242px;
+	height: 200px;
+	position: relative;
+}
+
+.design_footer{
+	background-color: #F2F3F4;
+}
+
+.research_sign{
+	color: #3498DB;
+}
+
+
+.research_thumbnail:hover{
+	background-color: #F2F3F4;
+}
+
+.research_thumbnail:hover .research_sign{
+	color: #656565;
+}
+
+.design_profile_img{
+	/*max-width: 100%;*/
+	width: 250px;
+	height: 250px;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.design_profile_box:hover{
+	background-color: #F2F3F4;
+}
+
+a{
+	text-decoration: none;
+}
+
+.paper_heading{
+	display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+
+    color: #656565;
+}
+
+.paper_heading:hover{
+	color: #656565;
+}
